@@ -1,0 +1,21 @@
+.navBar {
+    background-color: orangered;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+body {
+    background-image: url(ST.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ body {font-family: 'Ranchers', cursive;}
+.txt {
+    color: brown;
+    text-align: center;
+}
+.link {
+    color: cyan;
+    padding-left: 50px;
+    padding-right: 50px;
+}
